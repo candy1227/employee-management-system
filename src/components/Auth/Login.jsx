@@ -55,7 +55,7 @@ const Login = ({ handleLogin }) => {
             </button>
           </form>
           <p className="mt-6 text-sm text-center text-gray-400">
-            © 2025 Powered by Yogesh.in • All rights reserved.
+            © 2025 Powered by Isha.in • All rights reserved.
           </p>
         </div>
       </div>
